@@ -1,6 +1,6 @@
 # greenhouse-design-optimization
 
-This is a brief description of the code under Genetic search folder.
+### This is a brief description of the code under Genetic search folder.
 
 | Function | Dependent function | Input | Output |
 | -------- | -------- | -------- | -------- |
